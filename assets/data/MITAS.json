@@ -1,0 +1,1457 @@
+ [
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1000/50R25 175D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1000/50R25 175D178A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1000/50R25 178A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1000/50R25 178A8172D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1050/50R32 178A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1050/50R32 178A8178B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1050/50R32CHO 184A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1050/50R32CHO 184A8181B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32 188A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32 188A8185B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32 194A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32 194A8191B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32CHO 194A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 1250/50R32CHO 194A8191B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 13.6R36 127A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 15.5R38 134A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 200/70R16 94A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 200/70R16 94A894B AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 240/70R16 104A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 260/70R16 109A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 260/70R20 113A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 265/70R16MPT 114G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 270/80R32 131A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 270/80R36 134A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 270/95R32 136A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 270/95R48 144A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 275/80R20MPT 131G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 280/70R16 112A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 280/70R18 114A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 280/70R20 116A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 280/85R20 112A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 280/85R24 115A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 280/85R28 118A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 285/80R16MPT 126G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 300/70R20 110A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 300/85R42 144A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC90",
+            "Product": "MITAS 300/95R42 147A8 AC90"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 320/65R16 117D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 320/70R20 113A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 320/70R24 116A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 320/70R24 116D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R24 122A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R28 124A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R32 142A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R32 145A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R34 133A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/85R38 143A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/90R32 134A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/90R42 151A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/90R50 150A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/90R54 151A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 320/95R46 152A8152B AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 325/70R18MPT 125G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 335/80R20MPT 134G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 340/85R24 125A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 340/85R28 127A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 340/85R38 133A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 340/85R38 148A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 340/90R48 154A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 360/70R20 120A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 360/70R24 122A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 360/70R24 122D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 365/70R18MPT 132G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 375/70R20MPT 136G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/105R54 162D AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 380/70R20 122A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 380/70R24 125A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 380/70R24 125A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 380/70R24 125D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 380/70R28 127A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 380/70R28 127D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/80R38 142A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/85R24 131A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/85R28 133A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/85R30 135A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/85R34 146A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/90R46 149A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/90R46 159A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/90R50 151A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/90R50 160A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/90R54 152A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 380/95R38 147D AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 405/70R20MPT 136G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 405/70R24MPT 149G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 420/65R20 125D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 420/65R20 125D125A8 AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65 N",
+            "Product": "MITAS 420/65R20 125D125A8 AC65 N"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 420/70R24 130A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 420/70R24 130A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 420/70R24 130D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 420/70R28 133A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 420/70R28 133A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 420/70R28 133D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 420/70R30 134A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 420/70R30 134D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R24 137A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R28 139A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R30 140A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R34 142A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R34 147A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/85R38 144A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 420/90R30 147A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 425/55R17MPT 134G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 425/75R20MPT 148G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 440/65R24 128D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 440/65R28 131D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 445/65R22.5MPT 160G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 445/70R24MPT 151G AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "MPT-22",
+            "Product": "MITAS 445/70R24MPT 151G MPT-22"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 460/70R24IMP  AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 460/85R30 145A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 460/85R34 147A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 460/85R38 149A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 480/65R24 133D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 480/65R28 136D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 480/70R24 138A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R24 138D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 480/70R28 140A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R28 140D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 480/70R30 141A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 480/70R30 141A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R30 141D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R30 152D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 480/70R34 143A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 480/70R34 143A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R34 143D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R34 155D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 480/70R38 145A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 480/70R38 145D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 480/80R42 151A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 480/80R46 158A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 480/80R50 159A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 480/95R50 164D AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 500/70R24IMP  AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/80R28IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/80R28IMP 162A8182A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/80R28IMP 164A8176A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R24IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R24IMP 158A8171A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R24IMP 161A8182A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R24IMP 165A8177A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R30IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFTN",
+            "Product": "MITAS 500/85R30IMP  SFTN"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 500/85R34IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFTN",
+            "Product": "MITAS 500/85R34IMP  SFTN"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 520/70R34 148A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 520/70R34 148A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 520/70R34 148D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 520/70R38 150A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 520/70R38 150A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 520/70R38 150D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 520/85R38 155A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 520/85R42 162A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS 520/85R46 158A8 AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R24 140D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R24 146D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R28 142D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 540/65R28 142D145A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R30 150D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 540/65R30 150D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R30IMP  AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R34 145D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 540/65R38 147D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70T",
+            "Product": "MITAS 580/70R38 155A8 AC70T"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC70",
+            "Product": "MITAS 580/70R38 155D HC70"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 580/85R42 163D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 580/85R42 163D166A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 580/85R42 168D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 580/85R42 168D171A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R28 147D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 600/65R28 154D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R28IMP  AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R28IMP 156A8168A8 AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R28IMP 157A8177A8 AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R30 149D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R34 151D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R34 157D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 600/65R38 153D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 600/65R38 153D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 600/70R28 157D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 600/70R28 161D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 600/70R30 152D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/55R26IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/70R30IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFTN",
+            "Product": "MITAS 620/70R30IMP  SFTN"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/75R26 166A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/75R26 166A8166B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/75R30 163D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/75R30 166D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 620/75R30IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/60R34 159D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/65R34 161D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 650/65R38 157D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/65R38 157D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 650/65R38 157D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 650/65R38 166D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 650/65R38 173D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 650/65R42 165D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 650/65R42 165D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70H",
+            "Product": "MITAS 650/75R32 167A8 AC70H"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC75G",
+            "Product": "MITAS 650/75R32 167A8 AC75G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 650/75R32 172A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/75R38 169D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/75R42 165D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 650/85R38 173D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 680/80R38CHO 179D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 680/80R42 180D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 680/80R42 180D183A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 680/80R42CHO 180D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 680/80R42CHO 180D183A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 680/85R32 173A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 680/85R32 178A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70G",
+            "Product": "MITAS 680/85R32CHO 178A8 AC70G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/55R30 159D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/60R30 162D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/60R30IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/60R34 164D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/65R30IMP  SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/65R46 174D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC65",
+            "Product": "MITAS 710/70R38 166D AC65"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/70R38 166D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/70R38 171D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 710/70R38 171D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/70R42 173D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 710/70R42 173D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SST",
+            "Product": "MITAS 710/70R42 175D SST"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 710/75R42 175D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 750/55R30 162D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 750/65R26 166D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70H",
+            "Product": "MITAS 800/65R32 167A8 AC70H"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70H",
+            "Product": "MITAS 800/65R32 172A8 AC70H"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC70N",
+            "Product": "MITAS 800/65R32 178A8 AC70N"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R32 175A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R32 175A8172B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R32CHO 175A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R32CHO 175A8172B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R38 173D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R38 178D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R38CHO 178D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R38CHO 181D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 800/70R42CHO 182D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32 176A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32 176A8173B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32 181A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32 181A8178B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32CHO 176A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R32CHO 176A8173B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38 172D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38 172D175A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38 178D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38 178D181A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38CHO 178D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38CHO 178D181A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38CHO 181D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R38CHO 181D184A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R42 180D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/60R42CHO 183D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32 188A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32 188A8185B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32CHO 182A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32CHO 182A8179B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32CHO 188A8 SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS 900/70R32CHO 188A8185B SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC85",
+            "Product": "MITAS IF320/90R42 155B AC85"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "AC75G",
+            "Product": "MITAS IF650/75R32CFO 176A8 AC75G"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "SFT",
+            "Product": "MITAS IF710/65R46 183D SFT"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC3000",
+            "Product": "MITAS VF1000/65R32CFO 200A8 HC3000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC1000",
+            "Product": "MITAS VF320/105R54 169D HC1000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC1000",
+            "Product": "MITAS VF380/105R50 176D HC1000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF380/105R54 168B HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF380/85R34 149D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC1000",
+            "Product": "MITAS VF380/90R46 173D HC1000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF380/95R38 154B HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF420/85R28 151D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF420/85R34 154D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF480/70R38 172D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF480/80R46 164D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF480/80R46 175D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC1000",
+            "Product": "MITAS VF480/80R50 181D184A8 HC1000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF480/95R50 170B HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF520/85R42 174B HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC3000",
+            "Product": "MITAS VF520/85R42CFO 177B HC3000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF540/65R30 155D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF540/65R30 161D158E HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF540/65R34 163D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC3000",
+            "Product": "MITAS VF580/80R34CFO 178B HC3000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC3000",
+            "Product": "MITAS VF580/85R42CFO 183B HC3000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF600/70R30 165D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF650/65R42 170D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC2000",
+            "Product": "MITAS VF710/70R42 179D HC2000"
+        },
+        {
+            "Brand": "MITAS",
+            "Pattern": "HC3000",
+            "Product": "MITAS VF710/70R42CFO 190B HC3000"
+        }
+    ]

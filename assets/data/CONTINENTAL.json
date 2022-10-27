@@ -1,0 +1,318 @@
+ [
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 280/85R28  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 320/70R24  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 320/85R24  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 320/85R28  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 340/85R24  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 340/85R28  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 340/85R38  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 360/70R24  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 380/70R24  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 380/70R28  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 380/85R24  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 380/85R28  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 380/85R30  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 380/85R34  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 420/70R24  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 420/70R28  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 420/70R30  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 420/85R24  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 420/85R30  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 420/85R34  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 420/85R38  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 440/65R24  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 440/65R28  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 460/85R30  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 460/85R34  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 460/85R38  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 480/65R24  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 480/65R28  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 480/70R24  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 480/70R28  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 480/70R30  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 480/70R34  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 480/70R38  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 480/80R42  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 480/80R46  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 520/70R34  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 520/70R38  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 520/85R38  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor85",
+            "Product": "CONTINENTAL 520/85R42  Tractor85"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 540/65R24  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 540/65R28  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 540/65R30  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 540/65R34  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 540/65R38  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor70",
+            "Product": "CONTINENTAL 580/70R38  Tractor70"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 600/65R28  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 600/65R34  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 600/65R38  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 600/70R28  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 600/70R30  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 650/65R34  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 650/65R38  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 650/65R42  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Combine Master",
+            "Product": "CONTINENTAL 650/75R32CHO  Combine Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 650/75R38  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Combine Master",
+            "Product": "CONTINENTAL 680/85R32CHO  Combine Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 710/60R30  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 710/70R38  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 710/70R42  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Tractor Master",
+            "Product": "CONTINENTAL 710/75R42  Tractor Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Combine Master",
+            "Product": "CONTINENTAL 800/65R32  Combine Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Combine Master",
+            "Product": "CONTINENTAL 800/70R32CHO  Combine Master"
+        },
+        {
+            "Brand": "CONTINENTAL",
+            "Pattern": "Combine Master",
+            "Product": "CONTINENTAL 900/60R32CHO  Combine Master"
+        }
+    ]
+   

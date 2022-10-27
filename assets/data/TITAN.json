@@ -1,0 +1,404 @@
+[
+
+
+    {
+        "Brand": "TITAN",
+        "Pattern": "TruGrip Lug Radial",
+        "Product": "TITAN 12.4R24 122A8B TruGrip Lug Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 13.6R24 128A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 13.6R28  Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Power Lug",
+        "Product": "TITAN 14.9R24 120A8B Hi Power Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 14.9R24 120A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 16.9R26  Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 16.9R28 136A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 16.9R30 144A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 16.9R38  Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac Radial",
+        "Product": "TITAN 18.4R26 146A8B Torc Trac Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Power Lug",
+        "Product": "TITAN 18.4R30 143A8B Hi Power Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 18.4R34  Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 18.4R38 146A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 18.4R42 148A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 20.8R38 153A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49H",
+        "Product": "TITAN 20.8R42 155A8B AG49H"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Super Hi-Power Lug II",
+        "Product": "TITAN 20.8R42 155A8B Super Hi-Power Lug II"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 23.1R26 161A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Power Lug",
+        "Product": "TITAN 23.1R30 168A8B Hi Power Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 230/115R54 146A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 24.5R32  Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 24.5R32 159A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 24.5R32 169A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 24.5R32 173A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 250/95R48 147A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 28LR26 174A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 290/90R38 138A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Torc Trac II Radial",
+        "Product": "TITAN 30.5LR32 181A8B Torc Trac II Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/80R42 130A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 320/85R24 142A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/85R38 138A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R46 148A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R46 156A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R50 156A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R50 161A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R54 154A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 320/90R54 161A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 380/80R38 142A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/85R24 143A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/85R28 133A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/85R30 135A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/85R34 137A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/85R34 148A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/90R46 144A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/90R46 149A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Load Radial",
+        "Product": "TITAN 380/90R46 154A8B Hi Load Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/90R46 156A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Load Radial",
+        "Product": "TITAN 380/90R46 164A8B Hi Load Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Load Radial",
+        "Product": "TITAN 380/90R46 168A8B Hi Load Radial"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 380/90R46 168A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 380/90R54 152A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "TT49V",
+        "Product": "TITAN 380/90R54 162A8B TT49V"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 420/85R28 139A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 420/85R34 147A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 420/90R30 142A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 480/70R30 152A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Power Lug",
+        "Product": "TITAN 480/80R30 139A8B Hi Power Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Power Lug",
+        "Product": "TITAN 480/80R34 140A8B Hi Power Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R38 149A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R38 152A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R42 151A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R42 154A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R42 162A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R42 166A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R46 155A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 480/80R46 158A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 480/80R50 159A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 480/80R50 165A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 520/85R38 148A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 520/85R38 158A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 520/85R38 160A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "Hi Traction Lug",
+        "Product": "TITAN 520/85R42 157A8B Hi Traction Lug"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 520/85R46 158A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 520/85R46 169A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 600/70R30 152A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 620/70R42 160A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 620/70R46 162A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 710/60R30 162A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 710/70R38 166A8B AG49M"
+    },
+    {
+        "Brand": "TITAN",
+        "Pattern": "AG49M",
+        "Product": "TITAN 710/70R38 177A8B AG49M"
+    }
+]

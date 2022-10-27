@@ -1,0 +1,757 @@
+[
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 240/70R16 104D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 260/70R16 109D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 260/70R20 113D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 280/70R16 112D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 280/70R18 114D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 280/70R20 116D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 280/85R24 115A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 280/85R24 130A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 280/85R28 118A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 300/70R20 120D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 320/65R16 117D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 320/65R18 119D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 320/70R20 123D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 320/70R24 116D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 320/85R24 122A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 320/85R28 124A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 340/65R18 122D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 340/80R18IND 143A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 340/80R18IND 143A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 340/80R20IND 144A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 340/85R24 125A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 340/85R28 127A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 340/85R38 133A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 360/70R20 129D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 360/70R24 122D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 380/70R20 132D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 380/70R24 125D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 380/70R28 127D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 380/80R38 142A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 380/85R24 131A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 380/85R28 133A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 380/85R30 135A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 380/85R34 137A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 400/70R18IND 147A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 400/70R20IND 149A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 400/70R20IND 149A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 400/70R24IND 152A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 400/70R24IND 152A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 400/80R24IND 162A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 400/80R24IND 162A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 420/65R20 135D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 420/70R24 130D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 420/70R28 133D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 420/85R24 137A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 420/85R28 139A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 420/85R30 140A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 420/85R34 142A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 420/85R38 144A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 440/65R24 128D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 440/65R28 131D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 440/80R28IND 156A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 440/80R28IND 156A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 460/70R24IMP 163A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 460/70R24IND 159A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 460/70R24IND 159A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 460/85R30 145A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 460/85R34 147A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 460/85R38 149A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 480/65R24 133D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 480/65R28 136D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 480/70R24 138D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 480/70R28 140D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 480/70R30 141D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 480/70R34 143D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 480/70R38 145D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 480/80R26IND 160A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 480/80R26IND 160A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 480/80R42 156A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 480/80R46 158A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 480/80R50 159A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 500/70R24IMP 164A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "ENDURION",
+            "Product": "VREDESTEIN 500/70R24IND 164A8B ENDURION"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION VERSA",
+            "Product": "VREDESTEIN 500/70R24IND 164A8B TRAXION VERSA"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 500/80R28IMP 176A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 500/85R24IMP 171A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 500/85R30IMP 176A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 520/70R34 148D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 520/70R38 150D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 520/85R38 155A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 520/85R42 157A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION85",
+            "Product": "VREDESTEIN 520/85R46 158A8B TRAXION85"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R24 140D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R28 142D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R30 143D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION XXL/TRAXION+",
+            "Product": "VREDESTEIN 540/65R30 150D TRAXION XXL/TRAXION+"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R30 150D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R34 145D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R34 152D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 540/65R38 147D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 540/75R28 154D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 580/70R38 155D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 600/65R28 147D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 600/65R28 154D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION XXL/TRAXION+",
+            "Product": "VREDESTEIN 600/65R28 154D TRAXION XXL/TRAXION+"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 600/65R28IMP 168A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 600/65R34 151D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 600/65R38 153D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 600/70R28 157D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION XXL/TRAXION+",
+            "Product": "VREDESTEIN 600/70R28 157D TRAXION XXL/TRAXION+"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 600/70R30 158D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION XXL/TRAXION+",
+            "Product": "VREDESTEIN 600/70R30 158D TRAXION XXL/TRAXION+"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 600/70R34 160D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 620/70R30IMP 178A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+70-SERIES",
+            "Product": "VREDESTEIN 620/70R42 166D TRAXION+70-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 620/75R26 166A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 650/65R38 157D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION+65-SERIES",
+            "Product": "VREDESTEIN 650/65R42 158D TRAXION+65-SERIES"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 650/75R32 172A8 TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 650/75R38 169D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 650/85R38 173D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 680/85R32 173A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 680/85R32 179A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 680/85R32CHO 179A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/60R30 162D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION XXL/TRAXION+",
+            "Product": "VREDESTEIN 710/60R30 162D TRAXION XXL/TRAXION+"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/70R38 166D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/70R38 171D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/70R42 173D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/75R38 174D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 710/75R42 175D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 800/65R32 167A8B Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/65R32 172A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/65R32 178A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 800/65R32 178A8B Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/65R32CHO 172A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/70R32 175A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/70R32 181A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/70R32CHO 175A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 800/70R38 178D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/70R38 181D TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 800/70R38CHO 181D TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 900/60R32 176A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 900/60R32 181A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION HARVEST",
+            "Product": "VREDESTEIN 900/60R32CHO 176A8B TRAXION HARVEST"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN 900/60R38 178D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "TRAXION CEREALL",
+            "Product": "VREDESTEIN IF800/70R32CFO 182A8 TRAXION CEREALL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF600/70R30 168D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF620/75R30 172D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF650/60R34NRO 168D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF650/65R34NRO 170D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF710/60R34NRO 173D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF710/70R42 182D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN VF710/70R42 182D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF710/75R42 184D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN VF710/75R42 184D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF800/70R38 187D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN VF800/70R38 187D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF800/70R42 189D Traxion Optima ll"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN VF800/70R42 189D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion XXL",
+            "Product": "VREDESTEIN VF900/60R42 189D Traxion XXL"
+        },
+        {
+            "Brand": "VREDESTEIN",
+            "Pattern": "Traxion Optima ll",
+            "Product": "VREDESTEIN VF900/60R42NRO 189D Traxion Optima ll"
+        }
+    ]

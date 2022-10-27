@@ -1,0 +1,862 @@
+ [
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 230/95R32 128D 143A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 230/95R36 130D 145A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 230/95R44 134D 148A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 230/95R48 136D 150A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 250/85R24 109A8 106B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 250/85R24 109D 106E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 250/85R28 112D 109E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 270/95R32 136D 150A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 270/95R36 139D 153A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 270/95R38 140D 154A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 270/95R44 142D 156A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERF95",
+        "Product": "FIRESTONE 270/95R48 144D 158A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 270/95R48 144D 158A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 280/70R16 112A8 109B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 280/70R18 114A8 111B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 280/70R20 116A8 113B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 280/85R20 112D 109E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 280/85R24 115A8 112B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 280/85R24 115D 112E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 280/85R24 130A8 130B PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 280/85R28 118A8 115B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 280/85R28 118D 115E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 300/70R20 120A8 117B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 300/95R42 147D 161A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 300/95R46 148D 162A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 95",
+        "Product": "FIRESTONE 300/95R52 151D 165A2 PERF95"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 320/70R20 123A8 120B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 320/70R20 130A8 130B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 320/70R24 116A8 116B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 320/70R24 116D 113E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 320/85R20 119D 116E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 320/85R24 122A8 119B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 320/85R24 122D 119E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 320/85R28 124A8 121B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 320/85R28 124D 121E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 320/85R36 128D 125E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 90",
+        "Product": "FIRESTONE 320/90R32 134D 148A2 PERF90"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 9000",
+        "Product": "FIRESTONE 320/90R42 139A8 139B R9000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 335/80R20 136B 147A2 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 340/80R18IND 136A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 340/80R18IND 143A8 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 340/85R24 125A8 122B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R24 125D 122E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R24 136A8 136B PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 340/85R28 127A8 124B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R28 127D 124E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R36 132D 129E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 340/85R38 133A8 130B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R38 133D 130E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 340/85R48 151D 165A2 PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 360/70R20 129A8 126B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 360/70R24 122A8 122B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 360/70R24 122D 119E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 360/70R28 125A8 125B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 360/70R28 125D 122E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 365/80R20 141B 153A2 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 380/70R24 125D 122E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 380/70R28 127A8 127B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 380/70R28 127D 124E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 380/85R24 131A8 128B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 380/85R24 131D 128E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 380/85R28 133A8 130B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 380/85R28 133D 130E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 380/85R30 135D 132E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 400/70R20IND 149A8 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 400/70R20IND 149A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 400/70R24IND 158A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 400/80R24IND 156A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 405/70R18 141B 153A2 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 420/70R24 130A8 130B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 420/70R24 130D 127E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 420/70R24 136A8 136B PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 420/70R28 133A8 133B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 420/70R28 133D 130E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 420/85R24 137A8 134B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R24 137D 134E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R24 142A8 142B PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 420/85R28 139A8 136B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R28 139D 136E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R28 144A8 144B PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 420/85R30 140A8 137B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R30 140D 137E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 420/85R34 142A8 139B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R34 142D 139E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 420/85R38 144A8 141B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 420/85R38 144D 141E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 440/65R24 128D 125E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 440/65R28 131D 128E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 440/80R28IND 156A8 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 440/80R28IND 156A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 460/70R24IND 152A8 R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 UTILITY",
+        "Product": "FIRESTONE 460/70R24IND 159A8 159B R8000UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 460/70R24IND 159A8 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R30 145D 142E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 SEVERE SERVICE",
+        "Product": "FIRESTONE 460/85R34 147A8 144B R8000SS"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R34 147D 144E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 460/85R38 149A8 146B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 SEVERE SERVICE",
+        "Product": "FIRESTONE 460/85R38 149A8 146B R8000SS"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL ALL TRACTION DEEP TREAD",
+        "Product": "FIRESTONE 460/85R38 149A8 146B RATDT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R38 149D 146E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R38 154D 151E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R42 150D 147E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 460/85R42 156D 153E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 480/65R24 133D 130E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 480/65R28 136D 133E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 480/70R24 138A8 138B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R24 138D 135E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 480/70R28 140A8 140B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R28 140D 137E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R28 151A8 151B PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 480/70R30 141A8 141B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R30 141D 138E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R30 147D 144E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 480/70R34 143A8 143B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R34 143D 140E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 480/70R38 145A8 145B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 480/70R38 145D 142E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 480/80R26IND 160A8 DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 500/70R24IND 157A8 157B DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "DURAFORCE UTILITY",
+        "Product": "FIRESTONE 500/70R24IND 164A8 164B DURA-UT"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 520/70R34 148A8 148B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 520/70R34 148D 145E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 520/70R38 150A8 150B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 520/70R38 150D 147E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1085",
+        "Product": "FIRESTONE 520/85R38 155A8 152B R1085"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 8000 SEVERE SERVICE",
+        "Product": "FIRESTONE 520/85R38 155A8 152B R8000SS"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 520/85R38 155D 152E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 520/85R38 160D 157E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 520/85R42 157D 154E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 85",
+        "Product": "FIRESTONE 520/85R42 162D 159E PERF85"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R24 140D 137E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R28 142D 139E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R30 143D 140E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R30 150D 147E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R34 145D 142E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R34 152D 149E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 540/65R38 147D 144E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 1070",
+        "Product": "FIRESTONE 580/70R38 155A8 155B R1070"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 580/70R38 155D 152E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "PERFORMER 70",
+        "Product": "FIRESTONE 580/70R42 158D 155E PERF70"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 600/65R28 154D 151E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 600/65R30 155D 152E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 600/65R34 151D 148E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 600/65R38 153D 150E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 600/70R28 157D 154E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 600/70R30 158D 155E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 620/70R42 166D 163E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 7000",
+        "Product": "FIRESTONE 620/75R30 163A8 R7000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 620/75R30 163D 160E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 620/75R30 168A8 168B MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 650/65R38 157D 154E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 650/65R38 163D 163E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION 65",
+        "Product": "FIRESTONE 650/65R42 158D 155E MAXTR65"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 650/75R32 172A8 172B MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 650/75R38 169D 166E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 650/85R38 173D 170E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 7.50R16 102A8 99B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "RADIAL 4000",
+        "Product": "FIRESTONE 7.50R18 104A8 101B R4000"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 710/70R38 171D 168E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 710/70R42 173D 170E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 710/75R34 178A8 178B MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 800/65R32 178A8 178B MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE 900/60R32 181A8 181B MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF600/65R28 160D 157E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF600/65R30 161D 158E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF600/70R28 164D 160E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF600/70R30 165D 161E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF620/70R42 172D 169E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF650/85R38 179D 176E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF710/70R38 178D 175E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF710/70R42 179D 176E MAXTRAC"
+    },
+    {
+        "Brand": "FIRESTONE",
+        "Pattern": "MAXI TRACTION",
+        "Product": "FIRESTONE IF800/70R38 184D 181E MAXTRAC"
+    }
+]

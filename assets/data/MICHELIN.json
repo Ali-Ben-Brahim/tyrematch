@@ -1,0 +1,957 @@
+ [
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 1000/50R25 172A8166D MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 1050/50R32 178A8 MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 1050/50R32 178A8172D MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 1050/50R32 184A8184B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 11.2R24 114A8111B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 12.4R24 119A8116B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 12.4R28 121A8118B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 12.4R36 124A8121B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 12.4R38 125A8122B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 13.6R24 121A8118B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 13.6R28 123A8120B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 13.6R38 128A8125B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 14.9R24 126A8123B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 14.9R28 128A8125B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 16.9R24 134A8131B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 16.9R28 136A8133B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 16.9R30 137A8134B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 18.4R30 142A8139B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 18.4R34 144A8141B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 18.4R38 146A8143B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 20.8R38 153A8150B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM108",
+            "Product": "MICHELIN 320/65R16 107A8104B XM108"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 320/65R16 107D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM108",
+            "Product": "MICHELIN 320/65R18 109A8106B XM108"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 320/70R24 116D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 320/85R34 133A8130B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 320/85R38 143A8143B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 320/90R42 147A8147B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 320/90R50 150A8150B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 320/90R54 151A8151B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM108",
+            "Product": "MICHELIN 340/65R18 113A8110B XM108"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 340/85R46 150A8150B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 360/70R24 122D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 360/70R28 125D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 380/70R24 125D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 380/70R28 127D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 380/80R38 142A8139D AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 380/80R38 142A8142B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 380/85R30 135A8135B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 380/85R34 137A8137B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 380/90R46 157A8157B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIBRC",
+            "Product": "MICHELIN 380/90R50 151A8151B AGRIBIBRC"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 380/95R38 147A8147B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM108",
+            "Product": "MICHELIN 420/65R20 125A8125B XM108"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM108",
+            "Product": "MICHELIN 420/65R24 126A8126B XM108"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 420/65R28 128A8128B MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 420/70R24 130D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 420/70R28 133D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 420/80R46 151A8148B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 420/85R34 142A8142B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 420/85R38 144A8144B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 420/90R30 147A8147B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 440/65R24 128D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 440/65R28 131D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 480/65R24 133D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 480/65R28 136D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 480/70R24 138D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 480/70R28 140D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 480/70R30 141D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 480/70R34 143D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 480/70R38 145D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 480/80R42 156A8156B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 480/80R46 158A8158B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 480/80R50 159A8159B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 480/95R50 164A8164B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 520/70R34 148D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 520/70R38 150D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 520/85R38 155A8155B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 520/85R42 157A8157B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 520/85R42 162A8162B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 520/85R46 158A8155B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 540/65R24 140D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 540/65R28 142D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 540/65R30 143D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 540/65R34 145D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 540/65R38 147D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM27",
+            "Product": "MICHELIN 580/70R26 149A8146B XM27"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 580/70R38 155D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 580/85R42 168A8168B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 600/65R28 154D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 600/65R34 151D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 600/65R38 153D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 600/70R28 157D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 600/70R30 152D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XM27",
+            "Product": "MICHELIN 620/70R26 153A8150B XM27"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 620/70R38 170A8170B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "OMNIBIB",
+            "Product": "MICHELIN 620/70R42 160D OMNIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 620/70R42 166A8166B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 620/70R46 162A8162B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 620/75R26 166A8166B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 620/75R30 168A8168B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 620/75R34 170A8170B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 650/65R38 157D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MULTIBIB",
+            "Product": "MICHELIN 650/65R42 158D MULTIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 650/75R32 159A8156B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 650/75R32 172A8172B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 650/75R38 169A8169B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 650/75R38 173A8173B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 680/75R32 164A8161B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 710/55R30 153D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 710/70R38 171D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 710/70R42 173D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 710/75R34 168A8165B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 710/75R34 178A8178B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 750/50R26 157A8151D MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 750/65R26 166A8166B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 800/65R32 172A8172B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 800/70R32 181A8181B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 800/70R38 173D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AGRIBIB",
+            "Product": "MICHELIN 9.5R24 107A8104B AGRIBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 900/50R42 168A8168B MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MACHXBIB",
+            "Product": "MICHELIN 900/50R42 168D MACHXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "MEGAXBIB",
+            "Product": "MICHELIN 900/60R32 176A8176B MEGAXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF600/70R30 159D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF620/75R30 164D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF650/60R34 165D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF650/65R34 161D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF650/65R38 169D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF650/75R30 166D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF650/85R38 179D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF680/85R32CFO 179A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF710/60R34 164D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF710/60R38 172D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF710/70R42 179D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF710/70R42CFO 182A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF710/75R42 176D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF710/85R38 178D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF750/75R46 186D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF800/65R32CFO 178A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF800/70R32CFO 182A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF800/70R38 179D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF800/70R38CFO 184A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF800/70R38CFO 187A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF900/60R38CFO 184A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN IF900/60R38CFO 188A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF900/60R42 180D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF900/60R42 186D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB",
+            "Product": "MICHELIN IF900/65R46 190D AXIOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF320/90R42 163D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF320/90R50 166D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF320/90R54 168D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF380/80R38 149A8149B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF380/80R38 167D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF380/85R34 149A8149B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF380/90R46 173D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF380/90R50 175D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF380/90R54 176D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF380/95R38 154A8154B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF420/85R34 154A8154B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF420/95R50 177D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF480/60R28 134D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF480/80R42 176D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF480/80R46 164A8164B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF480/80R46 177D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF480/80R50 166A8166B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "SPRAYBIB",
+            "Product": "MICHELIN VF480/80R50 179D SPRAYBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "YIELDBIB",
+            "Product": "MICHELIN VF480/95R50 170A8170B YIELDBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF520/60R28 138D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF520/80R26 165A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF520/80R26CFO 168A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF520/85R30CFO 172A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF520/85R42CFO 177A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF540/65R30 158D155E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF600/60R28 146D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF600/60R30 147D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF600/60R34 149D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF600/60R38 151D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "EVOBIB",
+            "Product": "MICHELIN VF600/70R30 165D EVOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF600/70R30 168D165E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF620/70R26 170A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF620/70R26CFO 173A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF620/70R30CFO 172A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF620/75R30 172D169E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/60R34 168D165E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF650/60R38 155D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/60R38 170D167E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "EVOBIB",
+            "Product": "MICHELIN VF650/65R34 167D EVOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/65R34 170D167E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/65R42 174D171E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/85R38 182D179E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF650/85R42 183D180E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF710/60R38 160D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "XEOBIB",
+            "Product": "MICHELIN VF710/60R42 161D XEOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF710/60R42 176D173E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "EVOBIB",
+            "Product": "MICHELIN VF710/70R42 179D EVOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF710/70R42 182D179E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "EVOBIB",
+            "Product": "MICHELIN VF710/75R42 181D EVOBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF710/75R42 184D180E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "CEREXBIB",
+            "Product": "MICHELIN VF750/65R26CFO 177A8 CEREXBIB"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF750/70R44 186D183E AXIOBIB2"
+        },
+        {
+            "Brand": "MICHELIN",
+            "Pattern": "AXIOBIB2",
+            "Product": "MICHELIN VF800/70R38 187D184E AXIOBIB2"
+        }
+    ]

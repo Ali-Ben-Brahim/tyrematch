@@ -1,0 +1,587 @@
+ [
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 11.2R24 114A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 11.2R28 116A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 12.4R28 121A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 13.6R24 121A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 13.6R28 123A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERG",
+            "Product": "KLEBER 14.9LR20 119A8116B SUPERG"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 14.9R24 126A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 14.9R28 128A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERG",
+            "Product": "KLEBER 16.9R30 137A8134B SUPERG"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 210/95R32 114A8114B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 210/95R44 120A8120B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 230/95R32 126A8126B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 230/95R32 128D131A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 230/95R36 128A8128B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 230/95R36 130D133A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 230/95R40 122A8122B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 230/95R40 132D135A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 230/95R44 132A8132B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 230/95R44 134D137A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 230/95R48 134A8134B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 230/95R48 136D139A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 250/85R24 109A8106B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 250/85R28 112A8109B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER8L",
+            "Product": "KLEBER 260/70R16 109A8106B SUPER8L"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R32 134A8134B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R32 136D139A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R36 137A8137B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R36 139D142A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R38 138A8138B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R38 140D143A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R42 141D144A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R44 141A8141B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R44 142D151A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R48 142A8142B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R48 144D147A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 270/95R54 144A8144B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 270/95R54 146D149A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER8L",
+            "Product": "KLEBER 280/70R16 112A8109B SUPER8L"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 280/70R18 114A8111B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 280/70R20 116A8113B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 280/85R24 115A8112B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 280/85R28 118A8115B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 300/70R20 120A8117B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 300/95R42 147D150A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 300/95R46 146A8146B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 300/95R46 148D151A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER3",
+            "Product": "KLEBER 300/95R52 149A8149B SUPER3"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "CROPKER",
+            "Product": "KLEBER 300/95R52 151D154A8 CROPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER8L",
+            "Product": "KLEBER 320/70R20 123A8120B SUPER8L"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 320/70R24 116A8116B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 320/85R20 119A8116B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 320/85R24 122A8119B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 320/85R28 124A8121B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 320/85R32 126A8123B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 320/85R36 128A8125B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERG",
+            "Product": "KLEBER 340/75R20 117A8114B SUPERG"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 340/85R24 130A8127B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 340/85R28 127A8124B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 340/85R36 132A8129B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 340/85R38 133A8130B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 360/70R20 129A8126B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 360/70R24 122A8122B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 360/70R28 125A8125B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 380/70R24 125A8125B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 380/70R28 127A8127B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 380/85R24 131A8128B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 380/85R28 133A8130B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 380/85R30 135A8132B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 420/70R24 136A8136B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 420/70R28 133A8133B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPER8L",
+            "Product": "KLEBER 420/70R30 134A8131B SUPER8L"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 420/85R24 142A8139B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 420/85R28 144A8141B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 420/85R30 140A8137B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 420/85R34 142A8139B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 420/85R38 144A8141B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 440/65R24 128D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 440/65R28 131D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 460/85R30 145A8142B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 460/85R34 147A8144B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 460/85R38 149A8146B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 480/65R24 133D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 480/65R28 136D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 480/70R24 138A8138B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 480/70R28 145A8145B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 480/70R30 141A8141B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 480/70R34 143A8143B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 480/70R38 145A8145B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 520/70R34 148A8148B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 520/70R38 150A8150B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 520/85R38 155A8152B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TRAKER",
+            "Product": "KLEBER 520/85R42 157A8157B TRAKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 540/65R24 140D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 540/65R28 142D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 540/65R30 143D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 540/65R34 145D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 540/65R38 147D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 580/70R38 155A8155B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 600/65R28 154A8151D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 600/65R34 151D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 600/65R38 153D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 600/70R28 157A8154D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 600/70R30 152A8149D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "FITKER",
+            "Product": "KLEBER 620/70R42 160A8160B FITKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 650/65R38 157D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "GRIPKER",
+            "Product": "KLEBER 650/65R42 158D GRIPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 650/75R38 169A8166D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 650/85R38 173A8170D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 7.50R16 100A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 7.50R18 102A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 7.50R20 104A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 710/70R38 171A8168D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "TOPKER",
+            "Product": "KLEBER 710/70R42 173A8170D TOPKER"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 8.3R24 106A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 9.5R20 108A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 9.5R24 107A8 SUPERVIGNE"
+        },
+        {
+            "Brand": "KLEBER",
+            "Pattern": "SUPERVIGNE",
+            "Product": "KLEBER 9.5R28 109A8 SUPERVIGNE"
+        }
+    ]

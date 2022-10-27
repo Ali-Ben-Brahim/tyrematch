@@ -1,0 +1,437 @@
+ [
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 280/70R16 112D 109E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 320/85R24 127D 124E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 320/85R28 129D 126E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 340/85R24 130D 127E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 340/85R28 133D 130E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 360/70R24 127D 124E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 380/70R24 130D 127E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 380/70R28 133D 130E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 380/85R24 137D 134E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 380/85R28 139D 136E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/70R24 136D 133E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/70R28 139D 136E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/85R28 144D 141E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/85R30 145D 142E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/85R34 147D 144E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 420/85R38 149D 146E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 440/65R24 135D 132E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 460/85R30 150D 147E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 460/85R34 152D 149E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 460/85R38 154D 151E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 480/65R24 140D 137E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 480/65R28 142D 139E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 480/70R28 145D 142E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 480/70R30 147D 144E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 480/70R38 151D 148E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 520/70R38 155D 152E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 520/85R38 160D 157E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 540/65R24 146D 143E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 540/65R28 149D 146E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 540/65R30 150D 147E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 540/65R34 152D 149E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 540/65R38 153D 150E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 580/70R38 160D 157E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 600/65R28 154D 151E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 600/65R34 157D 154E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 600/65R38 159D 156E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 600/70R28 157D 154E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 600/70R30 158D 155E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 620/70R42 166D 163E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 650/65R38 163D 159E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 650/65R42 165D 161E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 650/85R38 173D 170E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 710/70R38 171D 168E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 710/70R42 173D 170E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VX-TRACTOR",
+        "Product": "BRIDGESTONE 710/75R42 175D 172E VX-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF1050/50R32CFO 185A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF650/75R32CFO 173A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF680/85R32CFO 179A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF800/65R32CFO 178A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF800/70R32CFO 182A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF800/70R38CFO 184A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE IF900/60R32CFO 182A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF480/65R28NRO 148D 145E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE VF500/85R24CFO 163A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF540/65R28NRO 154D 151E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE VF540/65R30CFO 161A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF540/65R30NRO 155D 152E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF540/65R34NRO 157D 154E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/65R28NRO 159D 156E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRAC",
+        "Product": "BRIDGESTONE VF600/65R34NRO 163D 159E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/65R34NRO 163D 159E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRAC",
+        "Product": "BRIDGESTONE VF600/65R38NRO 164D 160E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/65R38NRO 164D 160E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRAC",
+        "Product": "BRIDGESTONE VF600/70R28NRO 164D 160E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/70R28NRO 164D 160E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRAC",
+        "Product": "BRIDGESTONE VF600/70R30NRO 165D 161E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/70R30NRO 165D 161E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRAC",
+        "Product": "BRIDGESTONE VF600/70R34NRO 167D 164E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF600/70R34NRO 167D 164E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF620/70R42 172D 169E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE VF620/75R26CFO 172A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF620/75R30 169D 166E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF650/65R38NRO 169D 166E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF650/65R42NRO 170D 167E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF650/75R38NRO 175D 172E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF650/85R38 179D 176E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/55R30NRO 165D 161E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/60R30NRO 167D 164E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/60R34NRO 169D 166E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/70R38 178D 175E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/70R42 179D 176E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF710/75R42 181D 178E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-COMBINE",
+        "Product": "BRIDGESTONE VF750/65R26CFO 177A8 VT-COMB"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF800/70R38 184D 181E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF900/50R42NRO 180D 177E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF900/60R38NRO 183D 180E VT-TRAC"
+    },
+    {
+        "Brand": "BRIDGESTONE",
+        "Pattern": "VT-TRACTOR",
+        "Product": "BRIDGESTONE VF900/60R42NRO 185D 182E VT-TRAC"
+    }
+]

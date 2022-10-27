@@ -1,0 +1,3974 @@
+ [
+    {
+        "Brand": "MF",
+        "Model": "4700"
+    },
+    {
+        "Brand": "MF",
+        "Model": "4707"
+    },
+    {
+        "Brand": "MF",
+        "Model": "4708"
+    },
+    {
+        "Brand": "MF",
+        "Model": "4709"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5608"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5609"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5610"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5700"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5710"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5711"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6700"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6712"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6713"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5708"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5709"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5709S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5710S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5711S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5712S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "5713S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6712S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6713S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6714S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6715S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6716S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "6718S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7715S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7716S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7718S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7719S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7720S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7722S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7724S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "7726S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8727S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8730S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8732S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8735S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8737S"
+    },
+    {
+        "Brand": "MF",
+        "Model": "8740S"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "FA"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "CLASS 4"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "SPECIAL"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "ALL"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "307"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "308"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "309"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "310"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "311"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "312"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "409"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "410"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "411"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "412"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "413"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "414"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "415"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "520"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "522"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "524"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "711"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "712"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "714"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "209"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "210"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "211"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "231"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "240"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "250"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "255"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "260"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "270"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "275"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "280"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "2"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "3"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "303"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "304"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "305"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "306"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "716"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "718"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "816"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "818"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "822"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "824"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "916"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "920"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "922"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "924"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "926"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "927"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "930"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "933"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "936"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "939"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "102"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "103"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "104"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "105"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "106"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "108"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "200"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "201"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "203"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "204"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "205"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "206"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "207"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "208"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "313"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "345"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "350"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "360"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "365"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "370"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "380"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "390"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "395"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "4"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "5"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "600"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "610"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "611"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "612"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "614"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "615"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "622"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "626"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "720"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "722"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "724"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "815"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "817"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "819"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "820"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "826"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "828"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "918"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Agrobil"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 12"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 15"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 17"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 18"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 20"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 22"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 220"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 225"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 230"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 24"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 25"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 28"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "F 40"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Farmer 1"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Farmer 2"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Favorit 1"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Favorit 10"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Favorit 11"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Favorit 12"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "Favorit"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FE"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FL"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FLS"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FLU"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FW"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FWT"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "FWU"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "G 25"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "TS"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "CVT"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "Farmall"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "Maxxum"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "Optum"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "Puma"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "512"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "513"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "514"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "516"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6105"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6110"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6120"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6125"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6130"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6135"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6140"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6145"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6150"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6155"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6175"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6195"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6215"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6230"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6250"
+    },
+    {
+        "Brand": "JD",
+        "Model": "8100-8800"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7132"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7152"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7172"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "870"
+    },
+    {
+        "Brand": "NH",
+        "Model": "T5"
+    },
+    {
+        "Brand": "NH",
+        "Model": "T6"
+    },
+    {
+        "Brand": "NH",
+        "Model": "T7"
+    },
+    {
+        "Brand": "NH",
+        "Model": "TDD"
+    },
+    {
+        "Brand": "NH",
+        "Model": "TNF"
+    },
+    {
+        "Brand": "NH",
+        "Model": "TNN"
+    },
+    {
+        "Brand": "NH",
+        "Model": "TNV"
+    },
+    {
+        "Brand": "STEYR",
+        "Model": "Multi"
+    },
+    {
+        "Brand": "STEYR",
+        "Model": "Profy"
+    },
+    {
+        "Brand": "STEYR",
+        "Model": "Terrus"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "305"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "405"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "205"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "555"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "415"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "415 M"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "365"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "665"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "365 low"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "665 low"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "865"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "600"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "900"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A53 73 83 Compact"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A65"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A95"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A75"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A72"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A92"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A83"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A93"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A74 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A94 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A104 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A114 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A124 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "A134 1C7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "505"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "705"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "755"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "805"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "905"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "805, 905"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6100"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6400"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8000"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6000"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6200"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6300"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8100"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6600"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6800"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6550"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6250"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6850"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6650"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "6750"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8400"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8150"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8050"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "2005"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "2105"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8300"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8600"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8800"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8350"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8450"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8750"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8550"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "8950"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "X100"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "X110"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "X120"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "C90"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "C130"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "C 120e"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "C 150"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "M120"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "M120e"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "M130"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "M150 "
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "M150"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N82"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N92"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N91"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N111"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N93 H5"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N103 H5"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N121 "
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N103.4 H5"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N123 H5"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N111eh"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N111eLS"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N121"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N141"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N103.4"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N143"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N122"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N142"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N122 "
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N123 D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N163 D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N123 V"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N163 V"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N104 H"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N114 H"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N174 H"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N134 V-A"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N134 V-A-D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N154 V-A"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N154 V-A-D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N174 V-A"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N174 V-A-D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "N4 1B7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "XM 130"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "XM150"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T120"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T130"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T140e"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T140 ec"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T140ech"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T150"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T170"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T15"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T160"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T180"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T190"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T121 Clas, HiTech"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T131 Clas, HiTech"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T151eLS, T151eh"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T161 Cl, Hi, LS"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T171 Cl, Hi, LS"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T191 HiTech, LS"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T191HiTech, LS"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T132 Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T152 Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T162e Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T172 Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T182 Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T202 Versu"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T132 Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T152 Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T162e Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T172 Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T182 Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T202 Direct"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T133 H3"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T193 H3"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T153"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T203 D"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T213 V"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T144"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T154"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T174"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T194"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T214"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T234"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "T4 1A7"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S230"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S260"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S240"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S280"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S232"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S352"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S353"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S233"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S274"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S374"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S274 ST"
+    },
+    {
+        "Brand": "VALTRA",
+        "Model": "S394 ST"
+    },
+    {
+        "Brand": "CASE",
+        "Model": "Farmall U"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 400 Tier 3"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 400 Tier 4"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 400 Tier 4 (MR)"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 500 Tier 4"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 500 Tier 4i"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 600 Tier 4"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 600 Tier 4i"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "ARION 600C Tier 3"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "AXION 800 Tier 3"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "AXION 800 Tier 4"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "AXION 800 Tier 4 (MR)"
+    },
+    {
+        "Brand": "CLAAS",
+        "Model": "AXOS 300 Tier 3"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "207V"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "208V"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "209V"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "210V"
+    },
+    {
+        "Brand": "FENDT",
+        "Model": "211V"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6105R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6110M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6110R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6120M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6120R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6125M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6130M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6130R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6135M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6135R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6140M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6140R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6145M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6145R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6150R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6155M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6155R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6175M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6175R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6195M"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6195R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6215R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6230R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "6250R"
+    },
+    {
+        "Brand": "JD",
+        "Model": "SPFH (8100-8800)"
+    },
+    {
+        "Brand": "MF",
+        "Model": "M7132"
+    },
+    {
+        "Brand": "MF",
+        "Model": "M7152"
+    },
+    {
+        "Brand": "MF",
+        "Model": "M7172"
+    },
+    {
+        "Brand": "MF",
+        "Model": "MF8700"
+    },
+    {
+        "Brand": "STEYR",
+        "Model": "CVT"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 230 (Heavy duty Achse)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 210 (Plattform)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 220 (Plattform)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 230 (Plattform)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 210 (Kabine)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 220 (Kabine)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 230 (Kabine)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 220 Basso DT 45"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agrokid 230 Basso DT 55"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agroplus F 70 Keyline"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agorplus F 80 Keyline"
+    },
+    {
+        "Brand": "DF",
+        "Model": "Agroplus F 80.4 Keyline"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4070 E"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4070 E 2 WD"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4080 E"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4080 E 2 WD"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4090 E"
+    },
+    {
+        "Brand": "DF",
+        "Model": "4100 E"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080.4 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DF Ecoline (30 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080.4 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DF Ecoline (40 km/h)"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DF LS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DF GS"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DS LS gefedert/ungef. "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DS LS gefedert/ungef. "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DS LS gefedert/ungef. "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DS LS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DS LS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DS LS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DS GS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DS GS gefedert/ ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DS GS gefedert/ ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DS GS gefedert/ungef"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DS GS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DS GS gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DS TTV gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DS TTV gefedert/ ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DS TTV gefedert/ ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DS TTV gefedert/ungef"
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DS TTV gefedert/ungef."
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DV LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DV LS gefedert/ungef. /schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DV LS gefedert/ungef. /schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DV LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DV LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DV LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DV GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DV GS gefedert/ ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DV GS gefedert/ ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DV GS gefedert/ungef/schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DV GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5080 DV GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5115 DV TTV gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5105 DV TTV gefedert/ ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090.4 DV TTV gefedert/ ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5100 DV TTV gefedert/ungef/schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "5090 DV TTV gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "DF",
+        "Model": "9290 TTV"
+    },
+    {
+        "Brand": "DF",
+        "Model": "9310 TTV"
+    },
+    {
+        "Brand": "DF",
+        "Model": "9340 TTV"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 55 (Heavy duty Achse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 35 (Plattform)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 45 (Plattform)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 55 (Plattform)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 35 (Kabine)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 45 (Kabine)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 55 (Kabine)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 45 Basso"
+    },
+    {
+        "Brand": "LA",
+        "Model": "EGO 55 Basso"
+    },
+    {
+        "Brand": "LA",
+        "Model": "RF 70 Trend"
+    },
+    {
+        "Brand": "LA",
+        "Model": "RF 80 Trend"
+    },
+    {
+        "Brand": "LA",
+        "Model": "RF 80.4 Trend"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 70"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 70 2 WD"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 80"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 80 2 WD"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 90"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Crono 100"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80.4 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90.4 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 100 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 105 Target (30 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80.4 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90.4 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 100 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 105 Target (40 km/h)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 115 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 105 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90.4 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 100 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 115 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 105 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90.4 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 100 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 90 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire F 80 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 115 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 105 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90.4 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 100 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 80 LS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 115 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 105 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90.4 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 100 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 80 GS gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 115 VRT gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 105 VRT gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90.4 VRT gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 100 VRT gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire S 90 VRT gefedert/ungef."
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 115 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 105 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90.4 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 100 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 80 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 115 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 105 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90.4 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 100 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 80 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 115 VRT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 105 VRT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90.4 VRT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 100 VRT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire V 90 VRT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 115 TB GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 105 TB GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 115 TB LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 105 TB LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90.4 Target"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90 Target"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 80 Target"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 70 Target"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 100.4 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90.4 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 80 GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90.4 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 90 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spire 80 LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 120 HD GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 HD GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (5 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (5 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (4 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (4 Gang) GS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 120 HD LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 HD LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (5 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (5 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (4 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (4 Gang) LS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90.4 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90.4 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 110 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 100 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90.4 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90.4 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 90 LD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Strike 80 LD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 140 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 130 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 120 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 140 PS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 130 PS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 120 PS"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 155.4 / RCShift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 165.4 / RCShift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 175.4 / RCShift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 155.4 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 165.4 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 175.4 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 155 / Rcshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 165 / Rcshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 175 / Rcshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 185 / Rcshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 205 / RCshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 215 / Rcshift"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 155 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 165 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 175 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 185 VRT"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 205 VRT (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Spark 215 VRT (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Mach 230 Max Speed (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Mach 250 Max Speed (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Mach 230 HD (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "LA",
+        "Model": "Mach 250 HD (ohne Scheibenbremse/mit Scheibenbremse)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 55 (heavy duty Achse)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 35 (Plattform)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 45 (Plattform)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 55 (Plattform)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 35 (Kabine)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 45 (Kabine)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 55  (Kabine)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 45 Basso"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Solaris 55 Basso "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto³ 70 Naturale"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto³ 80 Naturale"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto³ 80.4 Naturale"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Argon 70"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Agron 70 2 WD"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Argon 80"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Argon 80 2 WD"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Argon 90"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Argon 100"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80.4 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90.4 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 100 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 105 Classic (30 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80.4 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90.4 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 100 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 105 Classic (40 km/h)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 115 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 105 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90.4 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 100 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 115 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 105 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90.4 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 100 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 90 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto 80 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 115 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 105 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90.4 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 100 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 80 LS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 115 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 105 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90.4 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 100 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 80 GS gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 115 CVT gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 105 CVT gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90.4 CVT gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 100 CVT gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto S 90 CVT gefedert/ungef."
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 115 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 105 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90.4 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 100 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 80 LS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 115 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 105 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90.4 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 100 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 80 GS gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 115 CVT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 105 CVT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90.4 CVT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 100 CVT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Frutteto V 90 CVT gefedert/ungef./schmal "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 115 TB GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 105 TB GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 115 TB LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 105 TB LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90.4 Classic"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90 Classic"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 80 Classic"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 70 Classic"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 100.4 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90.4 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 80 GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90.4 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 90 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Dorado 80 LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 120 HD GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 HD GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (5 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (4 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (5 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (5 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (4 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (4 Gang) GS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 120 HD LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 HD LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (5 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (4 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (5 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (5 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (4 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (4 Gang) LS"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90.4 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90.4 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (5 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (4 Gang) GS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 110 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 100 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90.4 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90.4 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 MD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 90 LD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (5 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Explorer 80 LD (4 Gang) LS (MY19)"
+    },
+    {
+        "Brand": "SA",
+        "Model": "Virtus 140 "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Virtus 130 "
+    },
+    {
+        "Brand": "SA",
+        "Model": "Virtus 120"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK22-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK27(H)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK35(H)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX35CCR-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX35CH-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX40CH-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX40CR-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX40H-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX50CR(CCR)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "EX50H(CH)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK904C-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "LX500L-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DS4110(HS)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DS4510(HS)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK2810-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK3310"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CS2610-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK4010C"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK4010NC"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK3510-EU(인증서 상 농용)"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK3510H-EU(인증서 상 Turf)"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK4010-EU(인증서 상 Industrial)"
+    },
+    {
+        "Brand": "KI",
+        "Model": "CK4010H-EU(CK35 타이어 Turf)"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK5010"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK6010"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK4510"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK5510(N)(HS)"
+    },
+    {
+        "Brand": "KI",
+        "Model": "DK6010 HST"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX4520"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5020"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5520"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX6020"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX4510(C)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX4510(C)H-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5010(C)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5010(C)H-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5510(C)-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX5510(C)H-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "NX6010(C)H-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX6030"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX6630"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX7330"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX6020(P)C-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX6620(P)C-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX7320(P)C-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "RX6010(P)C-EU"
+    },
+    {
+        "Brand": "KI",
+        "Model": "PX9020"
+    },
+    {
+        "Brand": "KI",
+        "Model": "PX1053"
+    },
+    {
+        "Brand": "KI",
+        "Model": "PX1153"
+    },
+    {
+        "Brand": "KI",
+        "Model": "PX9530"
+    },
+    {
+        "Brand": "KU",
+        "Model": "1220"
+    },
+    {
+        "Brand": "KU",
+        "Model": "1620"
+    },
+    {
+        "Brand": "KU",
+        "Model": "1820"
+    },
+    {
+        "Brand": "KU",
+        "Model": "2350"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2530"
+    },
+    {
+        "Brand": "KU",
+        "Model": "F3680"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4630"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L5740"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M135GX"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7060"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M9960"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME9000"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1402"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1410 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1550 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1550 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1610"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1700"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1710 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1750 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1750 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B1830"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2100"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2110"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2150 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2150 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2230"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2400"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2410"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2410 DN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B2710"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B3030"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B3150"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B4200"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B6000"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B6100 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B6200 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B6200 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B7100 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B7200 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B7200 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B8200 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "B8200 HD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "BX2200 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "F2000 II"
+    },
+    {
+        "Brand": "KU",
+        "Model": "F2400"
+    },
+    {
+        "Brand": "KU",
+        "Model": "F2400B"
+    },
+    {
+        "Brand": "KU",
+        "Model": "F3560 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "F-60"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L1361"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2250 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L245D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2500 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2550 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2550 D GST"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L275D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2850 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2850 D (opt IAR)"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L2850GST"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3000 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3200"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3250 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3300 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3430 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "L345 II D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3540"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3600 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3750 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L3830"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4100"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4100 DT Mec. HST"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4150 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4200 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4200 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L4240"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L5030"
+    },
+    {
+        "Brand": "KU",
+        "Model": "L5040 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "L5450 D"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M100GX"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M105S"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M108S"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M110 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M110GX"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M120 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M125X"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M128X"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M130GX"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M135GX (S)"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5091"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5111"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5400 DT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5400 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5700 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M5700 DTQ "
+    },
+    {
+        "Brand": "KU",
+        "Model": "M6040"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M6040 N"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M6060 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "M6800 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7001 KVT"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7001 PS"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7040"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7040 N"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8200 DTNQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8200 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8540"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8540 N"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8560 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "M9000 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M9540"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M9540 LP"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M9960 LP"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME5700  STD"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME5700 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME5700 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME5700 N"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME8200 "
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME8200 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME8200 N"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ME9000 DTQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MGX115 III"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MGX95 III"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MK5000"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ST a 35"
+    },
+    {
+        "Brand": "KU",
+        "Model": "ST30"
+    },
+    {
+        "Brand": "KU",
+        "Model": "STa 30"
+    },
+    {
+        "Brand": "KU",
+        "Model": "STV"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8540 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7040 DTNQ"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M8540 DTNQ "
+    },
+    {
+        "Brand": "KU",
+        "Model": "M6040 DTN"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MGX125 III"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MGX135 III"
+    },
+    {
+        "Brand": "KU",
+        "Model": "MGX105 III"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7131"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7151"
+    },
+    {
+        "Brand": "KU",
+        "Model": "M7171"
+    }
+]

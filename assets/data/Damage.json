@@ -1,0 +1,107 @@
+ [
+        {
+            "Id Damage": "B1",
+            "Area": "Bead",
+            "Damage": "Cracks"
+        },
+        {
+            "Id Damage": "B2",
+            "Area": "Bead",
+            "Damage": "Bulge"
+        },
+        {
+            "Id Damage": "B3",
+            "Area": "Bead",
+            "Damage": "Others"
+        },
+        {
+            "Id Damage": "SH1",
+            "Area": "Shoulder",
+            "Damage": "Cut reaching plies"
+        },
+        {
+            "Id Damage": "SH2",
+            "Area": "Shoulder",
+            "Damage": "Cracks"
+        },
+        {
+            "Id Damage": "SH3",
+            "Area": "Shoulder",
+            "Damage": "Impact"
+        },
+        {
+            "Id Damage": "SH4",
+            "Area": "Shoulder",
+            "Damage": "Others"
+        },
+        {
+            "Id Damage": "SW1",
+            "Area": "Sidewall",
+            "Damage": "Cut reaching plies"
+        },
+        {
+            "Id Damage": "SW2",
+            "Area": "Sidewall",
+            "Damage": "Scuffing"
+        },
+        {
+            "Id Damage": "SW3",
+            "Area": "Sidewall",
+            "Damage": "Cracks"
+        },
+        {
+            "Id Damage": "SW4",
+            "Area": "Sidewall",
+            "Damage": "Bulge"
+        },
+        {
+            "Id Damage": "SW5",
+            "Area": "Sidewall",
+            "Damage": "Ageing"
+        },
+        {
+            "Id Damage": "SW6",
+            "Area": "Sidewall",
+            "Damage": "Impact"
+        },
+        {
+            "Id Damage": "SW7",
+            "Area": "Sidewall",
+            "Damage": "Others"
+        },
+        {
+            "Id Damage": "T1",
+            "Area": "Tread",
+            "Damage": "Cut reaching plies"
+        },
+        {
+            "Id Damage": "T2",
+            "Area": "Tread",
+            "Damage": "Chunking"
+        },
+        {
+            "Id Damage": "T3",
+            "Area": "Tread",
+            "Damage": "Bulge"
+        },
+        {
+            "Id Damage": "T4",
+            "Area": "Tread",
+            "Damage": "Irregular wear"
+        },
+        {
+            "Id Damage": "T5",
+            "Area": "Tread",
+            "Damage": "Fast wear"
+        },
+        {
+            "Id Damage": "T6",
+            "Area": "Tread",
+            "Damage": "Impact"
+        },
+        {
+            "Id Damage": "T7",
+            "Area": "Tread",
+            "Damage": "Others"
+        }
+    ]
